@@ -6,9 +6,14 @@
 
 <div id="badges" align="center">
   <a href="https://twitter.com/oscarhrndez_" target="_blank">
-  <a href="https://instagram.com/oscarhrndz" target="_blank">
     <img src="https://img.shields.io/twitter/follow/oscarhrndez_" alt="Twitter Badge"/>
 </div>
+
+<div id="badges" align="center">
+  <a href="https://instagram.com/oscarhrndez" target="_blank">
+    <img src="https://img.shields.io/instagram/follow/oscarhrndez" alt="Instagram Badge"/>
+</div>
+
 <div>
   <h3>Languages & Tools</h3>
   <div>
