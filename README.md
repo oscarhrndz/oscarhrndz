@@ -1,4 +1,10 @@
-#### Hi there 👋
+### Hi there 👋 I'm Oscar
+
+<div id="badges" align="center">
+  <a href="https://twitter.com/oscarhrndez_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/oscarhrndez_" alt="Twitter Badge"/>
+</div>
+
 
 <!--
 **oscarhrndz/oscarhrndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
