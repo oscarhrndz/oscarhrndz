@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Oscar
 
+<img href="https://giphy.com/gifs/13HgwGsXF0aiGY">
+
 <a href="mailto:oscarhernandezsoler@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
