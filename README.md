@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Telegram-%40oscarhrndez-aqua?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/Telegram-%40oscarhrndez-aqua?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"> 
   </a>
 </div>
   
