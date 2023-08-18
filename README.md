@@ -36,7 +36,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/oscar-hernandez-soler/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foscar-hernandez-soler%2F">
+    <img src="[https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foscar-hernandez-soler%2F](https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=black
+)">
   </a>
 </div>
   
