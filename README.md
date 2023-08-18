@@ -29,12 +29,6 @@
 
 <div>
   <h3>Find me:</h3>
-  <a href="https://www.linkedin.com/in/oscar-hernandez-soler/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/db06348fe4c6f031158fabc0cb8dd16b6094c89117e94abba9297b3324f47f54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d42726169735f4d6f7572652d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="LinkedIn" data-  canonical-src="https://img.shields.io/badge/LinkedIn-Oscar_Hernandez-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  </a>
-</div>
-
-<div>
   <a href="https://www.linkedin.com/in/oscar-hernandez-soler/">
     <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
@@ -42,7 +36,7 @@
     <img src="https://img.shields.io/badge/Telegram-%40oscarhrndez-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black"> 
   </a>
 </div>
-  
+
 <!--
 **oscarhrndz/oscarhrndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
