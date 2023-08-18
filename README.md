@@ -36,7 +36,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/oscar-hernandez-soler/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=flat-square&logo=LinkedIn&logoColor=white&labelColor=black" height="27px" font-weight="bold">
+    <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" height="27px">
   </a>
 </div>
   
