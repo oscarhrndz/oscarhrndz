@@ -18,6 +18,7 @@
 <div id="badges" align="center">
   <a href="https://instagram.com/oscarhrndez" target="_blank">
     <img src="https://img.shields.io/instagram/follow/oscarhrndez" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <div>
@@ -45,7 +46,7 @@
   <a href="https://www.linkedin.com/in/oscar-hernandez-soler/">
     <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
-  <a href="">
+  <a href="https://t.me/oscarhrndez">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" style="max-width: 100%;"> 
   </a>
 </div>
