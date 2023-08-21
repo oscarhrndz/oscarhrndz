@@ -10,6 +10,10 @@
   <img src="https://i.postimg.cc/P57z3WVf/telegram.jpg" height="200">
 </a>
 
+<a href="mailto:oscarhernandezsoler@gmail.com">
+  <img src="https://i.postimg.cc/v83tpwcZ/telegram2.jpg" height="200">
+</a>
+
 <div id="badges" align="center">
   <a href="https://twitter.com/oscarhrndez_" target="_blank">
     <img src="https://img.shields.io/twitter/follow/oscarhrndez_" alt="Twitter Badge"/>
