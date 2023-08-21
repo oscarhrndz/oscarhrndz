@@ -6,6 +6,8 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
 
+<img href="blob:https://web.whatsapp.com/4227b5d6-ea0e-4451-b9b6-e5d8b98f38b6">
+
 <div id="badges" align="center">
   <a href="https://twitter.com/oscarhrndez_" target="_blank">
     <img src="https://img.shields.io/twitter/follow/oscarhrndez_" alt="Twitter Badge"/>
