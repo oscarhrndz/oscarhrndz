@@ -6,7 +6,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
 
-<a href="t.me/oscarhrndez">
+<a href="https://t.me/oscarhrndez">
   <img src="https://i.postimg.cc/YCfKq1L7/telegram1.jpg" height="200">
 </a>
 
@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=t.me%2Foscarhrndez" style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" style="max-width: 100%;"> 
   </a>
 </div>
 
