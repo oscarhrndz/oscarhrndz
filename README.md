@@ -42,7 +42,7 @@
 
 
 <div>
-  <h3>Find me:</h3>
+  <h3>Contact me:</h3>
   <a href="https://www.linkedin.com/in/oscar-hernandez-soler/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" alt="LinkedIn" style="max-width: 100%;">
   </a>
