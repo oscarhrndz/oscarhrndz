@@ -2,25 +2,6 @@
 
 <img href="https://giphy.com/gifs/13HgwGsXF0aiGY">
 
-<a href="mailto:oscarhernandezsoler@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
-</a>
-
-<a href="https://t.me/oscarhrndez">
-  <img src="https://i.postimg.cc/YCfKq1L7/telegram1.jpg" height="200">
-</a>
-
-<div id="badges" align="center">
-  <a href="https://twitter.com/oscarhrndez_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/oscarhrndez_" alt="Twitter Badge"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://instagram.com/oscarhrndez" target="_blank">
-    <img src="https://img.shields.io/instagram/follow/oscarhrndez" alt="Instagram Badge"/>
-  </a>
-</div>
-
 <div>
   <h3>Languages & Tools</h3>
   <div>
