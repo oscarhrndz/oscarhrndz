@@ -6,7 +6,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
 
-<img src="https://i.postimg.cc/MHnrMPgR/Whats-App-Image-2023-08-21-at-11-08-09.jpg">
+<img src="https://postimg.cc/tnHz85qC">
 
 <div id="badges" align="center">
   <a href="https://twitter.com/oscarhrndez_" target="_blank">
