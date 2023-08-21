@@ -11,7 +11,7 @@
     <br>
     <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=black" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-dodgerblue?style=for-the-badge&logo=css&logoColor=white&labelColor=black" alt="CSS">
-    <img src="https://i.postimg.cc/LsWfgKft/1212.png" height=28px alt="CSS">
+    <img src="https://i.postimg.cc/J4Ryn4vw/1212.png" height=28px alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-%23ffe123?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black" alt="JavaScript">
     <br>
     <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" alt="MySQL">
