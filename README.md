@@ -43,12 +43,8 @@
 
 <div>
   <h3>Find me:</h3>
-
   <img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" alt="Telegram" style="max-width: 100%;"> 
-
   <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" alt="LinkedIn" style="max-width: 100%;">
-
-  
   <img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" alt="Telegram" style="max-width: 100%;"> 
 
 </div>
