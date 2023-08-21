@@ -49,6 +49,9 @@
   <a href="https://t.me/oscarhrndez">
     <img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" alt="Telegram" style="max-width: 100%;"> 
   </a>
+  <a href="mailto:oscarhernandezsoler@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Telegram" style="max-width: 100%;"> 
+  </a>
 </div>
 
 <!--
