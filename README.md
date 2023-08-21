@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:oscarhernandezsoler@gmail.com">
-  <img src="https://i.postimg.cc/MpZqhPXR/telegram3.jpg" height="200">
+  <img src="https://i.postimg.cc/YCfKq1L7/telegram1.jpg" height="200">
 </a>
 
 <div id="badges" align="center">
