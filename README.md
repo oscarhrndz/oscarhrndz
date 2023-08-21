@@ -6,11 +6,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
 
-<a href="mailto:oscarhernandezsoler@gmail.com">
-  <img src="https://i.postimg.cc/P57z3WVf/telegram.jpg" height="200">
-</a>
-
-<a href="mailto:oscarhernandezsoler@gmail.com">
+<a href="t.me/oscarhrndez">
   <img src="https://i.postimg.cc/YCfKq1L7/telegram1.jpg" height="200">
 </a>
 
