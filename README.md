@@ -15,7 +15,7 @@
     <br>
     <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" alt="MySQL">
     <br>
-    <img src="https://img.shields.io/badge/-Github-darkgray?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
     <img src="https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black" alt="Visual Studio">
     <img src="https://img.shields.io/badge/AutoCad-%23B62426?style=for-the-badge&logo=autocad&logoColor=white&labelColor=black" alt="AutoCad">
   </div>
