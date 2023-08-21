@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Oscar%20Hdez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
   <a href="https://t.me/oscarhrndez">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" style="max-width: 100%;"> 
+    <img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black&link=https%3A%2F%2Ft.me%2Foscarhrndez" style="max-width: 100%;"> 
   </a>
 </div>
 
