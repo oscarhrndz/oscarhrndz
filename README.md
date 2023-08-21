@@ -7,7 +7,7 @@
 </a>
 
 <a href="mailto:oscarhernandezsoler@gmail.com">
-  <img src="https://i.postimg.cc/GpZ8Yz7Y/Whats-App-Image-2023-08-21-at-11-08-09.jpg">
+  <img src="https://i.postimg.cc/P57z3WVf/telegram.jpg">
 </a>
 
 <div id="badges" align="center">
