@@ -6,7 +6,7 @@
   <h3>Languages & Tools</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/Java-%23F89820?style=for-the-badge&logo=Java&logoColor=white&labelColor=black" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=Java&logoColor=white&labelColor=black" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/4defbd057be7f9b9b72692e87060e4d9e912372695002a0159b9cac042da3677/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black">
     <br>
