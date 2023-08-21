@@ -6,7 +6,9 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="50" style="max-width: 100%;">
 </a>
 
-<img src="[![Whats-App-Image-2023-08-21-at-11-08-09.jpg](https://i.postimg.cc/MHnrMPgR/Whats-App-Image-2023-08-21-at-11-08-09.jpg)](https://postimg.cc/tnHz85qC)" href="[![Whats-App-Image-2023-08-21-at-11-08-09.jpg](https://i.postimg.cc/MHnrMPgR/Whats-App-Image-2023-08-21-at-11-08-09.jpg)](https://postimg.cc/tnHz85qC)">
+<a href="mailto:oscarhernandezsoler@gmail.com">
+  <img src="[Whats-App-Image-2023-08-21-at-11-08-09.jpg](https://postimg.cc/tnHz85qC)">
+</a>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/oscarhrndez_" target="_blank">
