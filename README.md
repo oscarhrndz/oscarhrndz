@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Oscar
 
+<h1>Hello Everyone</h1>
+<h2> I'm  Oscar</h2>
 <img href="https://giphy.com/gifs/13HgwGsXF0aiGY">
 
 <div>
