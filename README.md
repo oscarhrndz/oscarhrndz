@@ -1,6 +1,11 @@
 
 <h2>🤝 Hi everyone and Welcome to my profile 🤝</h2>
 <p>Currently pursuing a Higher Certificate of Education in IT with a focus on app development, I am actively seeking a dynamic company for a 3-month internship to complement my studies. Eager to apply and expand my knowledge, I have completed courses in Python, SQL, C#, Java, HTML, and CSS. Python is my preferred language, and I am open to utilizing any language in a professional setting.</p>
+
+<h5>If you have any advise for me, let me know on LinkedIn, Telegram or Gmail.</h5>
+
+<h6>Feel free to use anything from my project, just mention me in the bibliography. "Oscar Hernandez Soler". Thank you.</h6>
+
 <!--<h1>Hello Everyone</h1>-->
 <!-- <p>I'm Oscar and I'm an Application Developer. -->
 <!-- At present, I'm improving my skills and knowledge about IT. -->
