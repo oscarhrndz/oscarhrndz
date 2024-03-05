@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Oscar
 
-<p>urrently pursuing a Higher Certificate of Education in IT with a focus on app development, I am actively seeking a dynamic company for a 3-month internship to complement my studies. Eager to apply and expand my knowledge, I have completed courses in Python, SQL, C#, Java, HTML, and CSS. Python is my preferred language, and I am open to utilizing any language in a professional setting.</p>
+<p>Currently pursuing a Higher Certificate of Education in IT with a focus on app development, I am actively seeking a dynamic company for a 3-month internship to complement my studies. Eager to apply and expand my knowledge, I have completed courses in Python, SQL, C#, Java, HTML, and CSS. Python is my preferred language, and I am open to utilizing any language in a professional setting.</p>
 <!--<h1>Hello Everyone</h1>-->
 <!-- <p>I'm Oscar and I'm an Application Developer. -->
 <!-- At present, I'm improving my skills and knowledge about IT. -->
