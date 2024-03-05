@@ -6,8 +6,6 @@
 <!-- At present, I'm improving my skills and knowledge about IT. -->
 <!-- I'd like to post all my projects here and I'll be really grateful if you, the person who's reading this, could support me in any mistake</p> -->
 
-<img href="https://giphy.com/gifs/13HgwGsXF0aiGY">
-
 <div>
   <h3>Languages & Tools</h3>
   <div>
