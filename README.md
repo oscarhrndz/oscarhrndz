@@ -26,10 +26,6 @@
   </div>
 </div>
 
-<h4>If you have any advise for me, let me know on LinkedIn, Telegram or Gmail.</h5>
-
-<h5>Feel free to use anything from my project, just mention me in the bibliography. "Oscar Hernandez Soler". Thank you.</h6>
-
 
 
 <div>
@@ -44,6 +40,10 @@
     <img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Telegram" style="max-width: 100%;"> 
   </a>
 </div>
+
+<h4>If you have any advise for me, let me know on LinkedIn, Telegram or Gmail.</h4>
+
+<h5>Feel free to use anything from my project, just mention me in the bibliography. "Oscar Hernandez Soler". Thank you.</h5>
 
 <!--
 **oscarhrndz/oscarhrndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
