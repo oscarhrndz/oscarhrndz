@@ -13,7 +13,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python">
+    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
     <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java">
     <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black" alt="C#">
     <br>
