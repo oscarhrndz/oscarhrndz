@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
     <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img src="https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black" alt="Visual Studio">
     <img alt="Static Badge" src="https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=Android&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ios-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&logoSize=amg&labelColor=black">
   </div>
