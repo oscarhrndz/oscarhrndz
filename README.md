@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java">
     <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black" alt="C#">
     <br>
-    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=black" alt="HTML">
+    <img alt="Static Badge" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-dodgerblue?style=for-the-badge&logo=css3&logoColor=white&logoSize=amg&labelColor=black">
     <img src="https://img.shields.io/badge/JavaScript-%23ffe123?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black" alt="JavaScript">
     <br>
