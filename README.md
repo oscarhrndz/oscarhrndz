@@ -18,8 +18,7 @@
     <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black" alt="C#">
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-dodgerblue?style=for-the-badge&logo=css3&logoColor=white&logoSize=amg&labelColor=black">
-    <img src="https://img.shields.io/badge/JavaScript-%23ffe123?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=black" alt="JavaScript">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" alt="MySQL">
     <br>
