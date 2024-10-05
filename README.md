@@ -10,6 +10,8 @@
 <div>
   <h3>Languages & Tools</h3>
   <div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
+    <br>
     <img src="https://img.shields.io/badge/Python-%23306998?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python">
     <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java">
     <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black" alt="C#">
