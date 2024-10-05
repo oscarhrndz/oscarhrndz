@@ -26,9 +26,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img src="https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/AutoCad-%23B62426?style=for-the-badge&logo=autocad&logoColor=white&labelColor=black" alt="AutoCad">
+    <img alt="Static Badge" src="https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=Android&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID-%2334A853?style=for-the-badge&logo=android&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&logoSize=amg&labelColor=black">
   </div>
 </div>
 
