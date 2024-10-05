@@ -15,12 +15,12 @@
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
     <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java">
-    <img src="https://img.shields.io/badge/-C%23-darkviolet?style=for-the-badge&logo=c%23&logoColor=white&labelColor=black" alt="C#">
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL" alt="MySQL">
+    <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
     <img src="https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black" alt="Visual Studio">
