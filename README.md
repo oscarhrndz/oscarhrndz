@@ -23,6 +23,8 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
+    <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
+    <br>
     <img src="https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black" alt="Visual Studio">
     <img src="https://img.shields.io/badge/AutoCad-%23B62426?style=for-the-badge&logo=autocad&logoColor=white&labelColor=black" alt="AutoCad">
     <br>
