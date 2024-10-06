@@ -8,12 +8,12 @@
 <!-- I'd like to post all my projects here and I'll be really grateful if you, the person who's reading this, could support me in any mistake</p> -->
 
 <div>
-  <h3>Languages & Tools</h3>
+  <h2>Technologies</h2>
   <div>
-    <h4>SDK</h4>
+    <h3>SDK</h3>
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <h5>Languages</h5>
+    <h4>Languages</h4>
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&logoSize=amg&labelColor=black">
