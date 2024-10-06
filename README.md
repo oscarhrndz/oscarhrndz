@@ -21,6 +21,7 @@
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white&logoSize=amg&labelColor=black">
     <br>
     <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
     <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
