@@ -9,7 +9,6 @@
 
 <div>
   <h2>Technologies</h2>
-  <div>
     <p>SDK</p>
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
     <br>
@@ -36,7 +35,6 @@
     <br>
     <h4>UI & UX</h4>
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&logoSize=amg&labelColor=black">
-  </div>
 </div>
 
 
