@@ -10,15 +10,15 @@
 <div>
   <h2>Technologies</h2>
   <div>
-    <h4>SDK</h4>
+    <p>SDK</p>
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <h4>Languages</h4>
+    <p>Languages</p>
     <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Python" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="Java" src="https://img.shields.io/badge/java-%23FFA500?style=for-the-badge&logoColor=white&logoSize=amg&labelColor=black">
-    <h4>Web</h4>
+    <p>Web</p>
     <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=amg&labelColor=black">
     <h4>Databases</h4>
