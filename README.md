@@ -10,26 +10,27 @@
 <div>
   <h3>Languages & Tools</h3>
   <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
-    <img src="https://img.shields.io/badge/Java-%23e88d1e?style=for-the-badge&logo=java&logoColor=white&labelColor=black" alt="Java">
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=Dart&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23FFA500?style=for-the-badge&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img src="https://img.shields.io/badge/GitHub-%23707070?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" alt="GitHub">
-    <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=GIT&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=Android&logoColor=white&logoSize=amg&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ios-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Android" src="https://img.shields.io/badge/android-%2334A853?style=for-the-badge&logo=Android&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="IOS" src="https://img.shields.io/badge/ios-%23000000?style=for-the-badge&logo=Apple&logoColor=white&logoSize=amg&labelColor=black">
     <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&logoSize=amg&labelColor=black">
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white&logoSize=amg&labelColor=black">
   </div>
 </div>
 
